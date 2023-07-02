@@ -1,4 +1,4 @@
-## Decorative Lights ecommerce Website with Razorpay Payment Gateway Integration
+## Decorative Lights ecommerce Website with Razorpay Payment Gateway Integration using Django
 
 This repository contains the source code for a Decorative Lights Website built using Django, a high-level Python web framework. The website serves as an online platform for showcasing and selling a wide range of decorative lights, with the added functionality of accepting payments through the Razorpay payment gateway.
 
