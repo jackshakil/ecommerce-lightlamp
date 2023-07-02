@@ -38,3 +38,40 @@ To set up the Decorative Lights Website with Razorpay integration locally, follo
 9. Access the website by visiting `http://localhost:8000` in your web browser.
 
 Ensure that your local development environment has the necessary prerequisites and dependencies installed. Additionally, consult the documentation and resources provided by Razorpay for any specific integration instructions.
+
+### Login Page
+![image](https://github.com/jackshakil/ecommerce-lightlamp/assets/132773575/4d7ce88b-59e6-402d-b352-0ae8fd4a4edd)
+### Customer Registration Page
+![image](https://github.com/jackshakil/ecommerce-lightlamp/assets/132773575/8b7e9b70-e919-47b5-ba35-ac14ee9263fe)
+### After customer registration, Creating the Profile
+![image](https://github.com/jackshakil/ecommerce-lightlamp/assets/132773575/cd777eb2-fb5b-401f-b209-2c24937ddb7f)
+### Address Page
+![image](https://github.com/jackshakil/ecommerce-lightlamp/assets/132773575/7843e0ef-a9a7-4a9e-914b-a13eca6279c3)
+### Home Page
+![image](https://github.com/jackshakil/ecommerce-lightlamp/assets/132773575/7f3ca95f-87ef-449a-a422-330f7de582af)
+![image](https://github.com/jackshakil/ecommerce-lightlamp/assets/132773575/cf9f10bf-48a9-4cf3-960d-315088e779dc)
+### Clicking products section and adding the necessary products to wishlist and cart (They can click on cart and wishlist to see the products added)
+![image](https://github.com/jackshakil/ecommerce-lightlamp/assets/132773575/6773e368-f223-401e-9aff-55abc7e96c65)
+![image](https://github.com/jackshakil/ecommerce-lightlamp/assets/132773575/903f6b2b-66ca-46a7-81ca-41e53c6f32d3)
+![image](https://github.com/jackshakil/ecommerce-lightlamp/assets/132773575/9d49d9c3-5b03-4dac-9cb2-5a88beaeb993)
+### Placing the order
+![image](https://github.com/jackshakil/ecommerce-lightlamp/assets/132773575/32704711-2588-4331-9811-65f3f36585b2)
+### Payment gateway
+![image](https://github.com/jackshakil/ecommerce-lightlamp/assets/132773575/2050d099-090a-42c6-a889-2f668eff7477)
+![image](https://github.com/jackshakil/ecommerce-lightlamp/assets/132773575/1feb4b06-22b6-4111-b52b-89a258094b89)
+### Customer orders page
+![image](https://github.com/jackshakil/ecommerce-lightlamp/assets/132773575/33c11f3b-4304-4ea8-be3d-ec323ae09324)
+### After order is accepted by the shop
+![image](https://github.com/jackshakil/ecommerce-lightlamp/assets/132773575/1a7e92a3-a2a9-4772-acda-c4410c3b2c3d)
+Order status will be reflected when it is Packed, On the way, Accepted and Delivered.
+
+
+
+
+
+
+
+
+
+
+
